@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidTabLayoutActivity!</string>
+    <string name="app_name">Hospital 24x7</string>
+     <string name="country_prompt">Choose one of the Nearby Hospital</string>
+
+    <string-array name="country_arrays">
+        <item>Downtown Hospital,27 S 13th St,San Jose, CA 95112</item>
+        <item>Santa Clara Valley Medical Centre, 751 S Bascom Ave,San Jose,CA 95128</item>
+        <item>Gateway Family Medical Centre,1580 Winchester Blvd,CA- 95008</item>
+        <item>O\'\Connor Hospital,2105 Forest Ave,CA 95128</item>
+        <item>NMCI medical clinic, 1871 Martin Ave,Ca - 95050</item>
+        <item>Reginal Medical Centre of San Jose,225 North Jackson Ave,CA 95116</item>
+        <item>Good Samaritan Hospital, 2425 Samaritan Dr,CA 95124</item>
+         </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+        <item>US News Nearby Hospitals</item>
+        <item>Best San Jose Hospitals</item>
+        <item>Yelp Ratings</item>
+        
+    </string-array>
+</resources>

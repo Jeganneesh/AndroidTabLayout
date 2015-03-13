@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/android"
+    android:orientation="vertical" >
+
+    <!-- Screen Design for VIDEOS -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_weight="0.18"
+        android:text="Developed by: Jeganneesh Chandrasekaran,Sri Kinnera Nanduri"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_weight="0.18"
+        android:text="An App that finds out nearby Hospital and helps navigating there during emergency based on shortest distance. It also includes hospital reviews for the nearby ones"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+</LinearLayout>
+ 
